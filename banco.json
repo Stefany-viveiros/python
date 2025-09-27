@@ -1,0 +1,24 @@
+{
+    "clientes": [
+        {
+            "nome": "25558",
+            "email": "5555",
+            "idade": 4444
+        },
+        {
+            "nome": "Stefany",
+            "email": "Viveirosstefany@gmail.com",
+            "idade": 26
+        },
+        {
+            "nome": "Ste",
+            "email": "viveirosstefany@gmail.com",
+            "idade": 6
+        },
+        {
+            "nome": "Julia",
+            "email": "julia.hotmail.com",
+            "idade": 50
+        }
+    ]
+}
